@@ -1,3 +1,6 @@
 # hello-world
-My first()
-I'm unintelligent 
+
+
+My first
+
+Hello I'm retarded 
